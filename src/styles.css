@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
     background: #ececec;
     
-    background: url("D:\React\DAY 1\CE\reactapp1\src\images\concept-charity-and-donation-background-with-vector-34503652.jpg") center center/cover no-repeat;
+    background: url("src\components\images\concept-charity-and-donation-background-with-vector-34503652.jpg") center center/cover no-repeat;
     margin: 0;
 }
 
